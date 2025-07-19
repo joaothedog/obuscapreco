@@ -63,9 +63,11 @@ pip install -r requirements.txt
 
 
 `GOOGLE_SHEETS_NAME=Nome da sua planilha`
+
 `GOOGLE_CREDENTIALS_FILE=credentials.json`
 
 `TELEGRAM_TOKEN=seu_token_aqui`
+
 `TELEGRAM_CHAT_ID=seu_chat_id_aqui`
 
 
